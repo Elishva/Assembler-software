@@ -1,0 +1,15 @@
+
+Checking file check_label.as
+Error at line 1: Illegal label r1, label can't be a Register name.
+Error at line 2: Illegal label 7hhh, label must begin with alpha betic character.
+Error at line 3: label too long, the maximun label is 30
+Error at line 8: Illegal use of label lab.
+Error at line 9: label LOOP already declared.
+Error at line 14: Illegal use of word ness, you perhaps forget sign : for label.
+Error at line 15: stop not need any operand 
+Error at line 9: label W is not declared.
+Error at line 10: label W is not declared.
+Error at line 11: label x is not declared.
+
+
+Total Errors 10.

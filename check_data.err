@@ -1,0 +1,17 @@
+
+Checking file check_data.as
+Error at line 5: number -16386 not in range(16383 to -16384)
+Error at line 10: Missing string 
+Error at line 12: Missing comma.
+Error at line 14: Too many comma.
+Error at line 19: number 16385 not in range(16383 to -16384)
+Error at line 23: Missing begging of quotation marks 
+Error at line 24: Data without numbers.
+Error at line 25: Data without numbers.
+Error at line 1: label LOOP is not declared.
+Error at line 2: label LEN is not declared.
+Error at line 3: label LOOP1 is not declared.
+Error at line 4: .entry has no label .
+
+
+Total Errors 12.

@@ -1,0 +1,41 @@
+
+Checking file check_cmd.as
+Error at line 1: Missing Oparand, Command mov need 2 operand.
+Error at line 2: Missing Oparand, Command mov need 2 operand.
+Error at line 3: Illegal label r4;, label can only include numric and alpha betic character.
+Error at line 3: Illegal Oparand r4;.
+Error at line 4: Illegal label ,x, label must begin with alpha betic character.
+Error at line 4: Illegal Oparand ,x.
+Error at line 6: Illegal label ,,r2, label must begin with alpha betic character.
+Error at line 6: Illegal Oparand ,,r2.
+Error at line 7: Illegal label ,r2, label must begin with alpha betic character.
+Error at line 7: Illegal Oparand ,r2.
+Error at line 8: Illegal label r2;, label can only include numric and alpha betic character.
+Error at line 8: Illegal Oparand r2;.
+Error at line 9: Missing Oparand, Command lea need 2 operand.
+Error at line 14:ilegal bit number 6, number need to be big from 9 & less then 15
+Error at line 14: Illegal label rr[9-6], label can only include numric and alpha betic character.
+Error at line 14: Illegal Oparand r3;.
+Error at line 15:missing dash separator.
+Error at line 15: Illegal label rr[66], label can only include numric and alpha betic character.
+Error at line 15: Illegal Oparand r3.
+Error at line 20: label yy already declared.
+Error at line 3: Illegal label r4;, label can only include numric and alpha betic character.
+Error at line 4: Illegal label ,x, label must begin with alpha betic character.
+Error at line 6: Illegal label ,,r2, label must begin with alpha betic character.
+Error at line 6: label x is not declared.
+Error at line 7: Illegal label ,r2, label must begin with alpha betic character.
+Error at line 8: Illegal label r2;, label can only include numric and alpha betic character.
+Error at line 10: label x is not declared.
+Error at line 11: label x is not declared.
+Error at line 13: label tt is not declared.
+Error at line 14:ilegal bit number 6, number need to be big from 9 & less then 15
+Error at line 14: Illegal label rr[9-6], label can only include numric and alpha betic character.
+Error at line 14: Illegal label r3;, label can only include numric and alpha betic character.
+Error at line 15:missing dash separator.
+Error at line 15: Illegal label rr[66], label can only include numric and alpha betic character.
+Error at line 19: label x is not declared.
+Error at line 20: label x is not declared.
+
+
+Total Errors 36.
